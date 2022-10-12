@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khushali6890
 - 👀 I’m interested in Python, SAS and SAP HCM
-- 🌱 I’m currently learning SAS and Python 
-- 💞️ I’m looking to collaborate on SAP HCM
+- 🌱 I’m currently learning Javascript and python 
+- 💞️ I’m looking to collaborate on SAP HCM and SAP Abap
 - 📫 How to reach me khushaligate@gmail.com
 
 <!---
